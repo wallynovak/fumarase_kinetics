@@ -1,4 +1,4 @@
-This guided exercise requires that students have determined data suitable for Michaelis-Menten kinetic plots in units of deltaAU/min and know how much enzyme (in mg) was added to each reaction. 
+This guided exercise requires that students have determined data suitable for Michaelis-Menten kinetic plots in units of deltaAU/min and know how much enzyme (in mg) was added to each reaction. To run a notebook, double click on the file in github, then click the open in Colab button at the top of the code.
 
 First, run Tecan_kinetic_processing.ipynb to process the kinetic data and determine pathlength-corrected slopes.
 
